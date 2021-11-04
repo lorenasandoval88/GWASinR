@@ -1,2 +1,3 @@
 # GWASinR
-Plotting GWAS summary stats 
+Plotting ER- Breast Cancer GWAS summary statistics
+
